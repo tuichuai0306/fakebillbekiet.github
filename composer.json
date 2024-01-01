@@ -1,0 +1,9 @@
+{
+    "require": {
+        "sergeytsalkov/meekrodb": "^2.5",
+        "melbahja/seo": "^2.1",
+        "thiagoalessio/tesseract_ocr": "^2.12",
+        "raeen/phpy": "^5.0",
+        "pusher/pusher-php-server": "^7.2"
+    }
+}
